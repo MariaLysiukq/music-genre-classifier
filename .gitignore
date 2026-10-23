@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.vscode/
+GTZAN_student/
+*.wav
+*.mp3
